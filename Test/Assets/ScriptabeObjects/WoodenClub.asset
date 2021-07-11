@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5eff58955cb8d47adc76f00947fb84, type: 3}
+  m_Name: WoodenClub
+  m_EditorClassIdentifier: 
+  itemName: Wooden Club
+  itemPrice: 10
+  itemIcon: {fileID: 21300000, guid: fb09b5cffd447324198d9a9f37d6df8f, type: 3}
+  prefab: {fileID: 399787490463030618, guid: a208541b3cdd51b43bffec7430679a93, type: 3}
+  itemID: 0
+  itemType: 1
+  equipmentType: 0

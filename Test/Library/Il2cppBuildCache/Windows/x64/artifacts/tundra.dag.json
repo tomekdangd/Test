@@ -1,0 +1,131 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/Game Development/3D Games/Test/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll",
+      "Action": "\"D:\\Game Development\\Unity\\2020.3.10f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"WindowsDesktop\" --architecture=\"x64\" --configuration=\"Release\" --outputpath=\"D:\\Game Development\\3D Games\\Test\\Library/Il2cppBuildCache/Windows/x64\\Native\\GameAssembly.dll\" --cachedirectory=\"D:\\Game Development\\3D Games\\Test\\Assets\\..\\Library/il2cpp_cache\" --baselib-directory=\"D:/Game Development/Unity/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport\\Variations\\win64_nondevelopment_il2cpp\" --avoid-dynamic-library-copy --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"D:/Game Development/Unity/2020.3.10f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"D:/Game Development/3D Games/Test/Library/Il2cppBuildCache/Windows/x64/il2cppOutput\"",
+      "Inputs": [
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/System.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Unity.2D.Animation.Runtime.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Unity.2D.IK.Runtime.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "D:/Game Development/3D Games/Test/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "D:/Game Development/3D Games/Test/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll"
+      ],
+      "TargetDirectories": [
+        "D:/Game Development/3D Games/Test/Library/Il2cppBuildCache/Windows/x64/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
